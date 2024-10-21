@@ -1,0 +1,8 @@
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\bin\Debug\brudnopisProjektuOkienkowego.exe.config
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\bin\Debug\brudnopisProjektuOkienkowego.exe
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\bin\Debug\brudnopisProjektuOkienkowego.pdb
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\obj\Debug\brudnopisProjektuOkienkowego.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\obj\Debug\brudnopisProjektuOkienkowego.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\obj\Debug\brudnopisProjektuOkienkowego.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\obj\Debug\brudnopisProjektuOkienkowego.exe
+C:\Users\ASUS\OneDrive\Pulpit\Baza\brudnopisProjektuOkienkowego\brudnopisProjektuOkienkowego\obj\Debug\brudnopisProjektuOkienkowego.pdb
